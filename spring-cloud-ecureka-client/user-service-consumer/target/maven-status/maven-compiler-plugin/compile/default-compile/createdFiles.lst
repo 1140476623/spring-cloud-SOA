@@ -1,0 +1,3 @@
+user\UserServiceConsumerBootstrap.class
+user\web\controller\UserRestApiController.class
+user\service\UserServiceProxy.class

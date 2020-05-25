@@ -1,0 +1,4 @@
+com\ljt\user\repository\UserRepository.class
+com\ljt\user\web\controller\UserServiceProviderRestApiController.class
+com\ljt\user\UserServiceProviderBootstrap.class
+com\ljt\user\service\UserServicieImpl.class

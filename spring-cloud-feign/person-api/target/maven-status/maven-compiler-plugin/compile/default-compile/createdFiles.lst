@@ -1,0 +1,3 @@
+com\ljt\spring\cloud\feign\api\service\PersonService.class
+com\ljt\spring\cloud\feign\api\domain\Person.class
+com\ljt\spring\cloud\feign\api\hystrix\PersonServiceFallback.class

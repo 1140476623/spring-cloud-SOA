@@ -1,0 +1,3 @@
+com\ljt\spring\cloud\feign\client\PersonClientApplication.class
+com\ljt\spring\cloud\feign\client\web\controller\PersonClientController.class
+com\ljt\spring\cloud\feign\client\ribbon\ReturnFirstForeverLoadBalanceRule.class

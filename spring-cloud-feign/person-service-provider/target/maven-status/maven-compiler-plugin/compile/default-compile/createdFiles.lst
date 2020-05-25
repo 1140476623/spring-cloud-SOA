@@ -1,0 +1,5 @@
+com\ljt\spring\cloud\feign\person\service\provider\PersonServiceProviderApplication.class
+com\ljt\spring\cloud\feign\person\service\provider\repository\PersonRepository.class
+com\ljt\spring\cloud\feign\person\service\provider\entity\Person.class
+com\ljt\spring\cloud\feign\person\service\provider\service\PersonService.class
+com\ljt\spring\cloud\feign\person\service\provider\web\conrtoller\PersonServiceProviderContrller.class
